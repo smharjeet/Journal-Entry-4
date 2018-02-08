@@ -1,0 +1,2 @@
+house_df <- read.csv('file:///C:/Users/hsingh/Documents/R work/kc_house_data.csv', header = TRUE,stringsAsFactors=F, na.strings=c("","NA" ))
+names(house_df)
